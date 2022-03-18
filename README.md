@@ -14,7 +14,7 @@ For example:
 ![image](https://user-images.githubusercontent.com/41323710/159019089-5a6f72c0-6116-4796-ad31-557814a5b5c0.png)
 ![image](https://user-images.githubusercontent.com/41323710/159019167-3543f87b-28b7-433f-9b40-48c626e05ebb.png)
 
-Thus, I think it's important to build a seperate module so that all kinds of sensors can be easily linked to the system without a separate 10kΩ resistance.
+Thus, I think it's important to build a separate module so that all kinds of sensors can be easily linked to the system without a separate 10kΩ resistance.
 Basically, this part is like this:
 
 ![av3rt-9lfal](https://user-images.githubusercontent.com/41323710/159019503-22610115-dc5d-47f2-ade7-aedf2c6766ca.jpg)
